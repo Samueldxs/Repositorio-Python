@@ -1,2 +1,6 @@
 # Repositorio-Python
- Projetos para demonstração :D
+ Apresentando todo meu conhecimento inicial em python e github
+
+
+
+
